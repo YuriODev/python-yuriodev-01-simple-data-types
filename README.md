@@ -5,6 +5,7 @@ Welcome to the first module of our Python course at St. Ignatius College, focusi
 ## 📂 Repository Structure
 
 - [Theory](./theory): This folder contains all the theoretical materials related to simple data types in Python.
+- [Examples](./examples): Here you can find example problems and their solutions to understand the practical implementation of the concepts covered.
 - [Exercises](./exercises): Here you can find exercises to practice your understanding of the topics covered.
 - [Solutions](./solutions): This folder contains solutions to the exercises. It's recommended to try solving the exercises yourself before checking the solutions.
 
