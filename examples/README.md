@@ -1,8 +1,8 @@
-# Exercises 👨🏼‍💻
+# Examples 👨🏼‍💻
 
-Here are some exercises to get you started.
+Here are some examples to get you started.
 
-## Exercise 1
+## Example 1
 **Problem:** A natural number is given. Find the digit that stands in the tens place in the decimal notation of the number (the second digit, counting from the end of the record).
  
 
@@ -12,7 +12,7 @@ Here are some exercises to get you started.
 | 2   | 158    | 5       |
 | 3   | 5      | 0       |
 
-## Exercise 2
+## Example 2
 
 **Problem:** A positive three-digit integer is entered. Find the sum of the digits of the number.
 
@@ -22,7 +22,7 @@ Here are some exercises to get you started.
 | 2   | 123    | 6       |
 | 3   | 565    | 16      |
 
-## Exercise 3
+## Example 3
 
 **Problem:** Tatiana goes to bed at midnight every day and recently learned that the optimal time for her sleep is `t` minutes. Tatiana wants to set an alarm clock to ring exactly `t` minutes after midnight, but for this it is necessary to specify the alarm time in hours and minutes. Help Tatiana determine what time to set the alarm for. Hours and minutes in the program's output should be on separate lines.
 
@@ -32,7 +32,7 @@ Here are some exercises to get you started.
 | 2   | 1240   | 20<br>40  |
 | 3   | 150    | 2<br>30   |
 
-## Exercise 4
+## Example 4
 
 **Problem:** Helen learned that she needs `t` minutes to sleep. Unlike Tatiana, Helen goes to bed after midnight at `h` hours and `m` minutes. Help Helen determine what time she should set the alarm to ring exactly `t` minutes after she goes to bed. The values of `t`, `h` and `m` are entered on separate lines. It is guaranteed that Helen should wake up on the same day she fell asleep. The program should output the time to set the alarm: hours on the first line, minutes on the second line.
 
@@ -42,7 +42,7 @@ Here are some exercises to get you started.
 | 2   | 300<br>23<br>0 | 5<br>0    |
 | 3   | 1440<br>0<br>0 | 0<br>0    |
 
-## Exercise 5
+## Example 5
 
 **Problem:** Write a program to convert the entered seconds into days, hours, minutes and seconds.
 
@@ -52,7 +52,7 @@ Here are some exercises to get you started.
 | 2   | 456789 | 5 day(s), 6 hour(s), 53 minute(s), 9 second(s) |
 | 3   | 86401  | 1 day(s), 0 hour(s), 0 minute(s), 1 second(s)  |
 
-## Exercise 6
+## Example 6
 
 **Problem:** Given an integer `n` - the number of minutes that have passed since midnight - how many hours and minutes are displayed on a 24-hour digital clock? The program should print two numbers: the number of hours (from 0 to 23) and the number of minutes (from 0 to 59).
 
@@ -62,7 +62,7 @@ Here are some exercises to get you started.
 | 2   | 25     | 0, 25   |
 | 3   | 440    | 7, 20   |
 
-## Exercise 7
+## Example 7
 
 **Problem:** An integer `n` is entered, it is necessary to "cut off" the last `k` digits from it. For example, when `n` = 123456 and `k` = 3 the answer should be 123.
 
@@ -72,7 +72,7 @@ Here are some exercises to get you started.
 | 2   | 123456<br>3 | 123  |
 | 3   | 123456<br>6 | 0    |
 
-## Exercise 8
+## Example 8
 
 **Problem:** A book costs `a` pounds and `b` pennies. Determine how many pounds and pennies need to be paid for `n` books. The values are entered by the user in the order `a`, `b`, `n` on separate lines, and the amount to pay in two lines: the number of pounds on the first line and the number of pennies on the second line, respectively.
 
@@ -82,7 +82,7 @@ Here are some exercises to get you started.
 | 2   | 5<br>50<br>4  | 22<br>0  |
 | 3   | 1<br>99<br>1  | 1<br>99  |
 
-## Exercise 9
+## Example 9
 
 **Problem:** Write a program to sum the first `n` natural numbers. The result must be an integer.
 
@@ -92,7 +92,7 @@ Here are some exercises to get you started.
 | 2   | 15  | 120  |
 | 3   | 99  | 4950 |
 
-## Exercise 10
+## Example 10
 
 **Problem:** Get the reverse (in reverse order) entry of the three-digit number `n` entered by the user.
 
