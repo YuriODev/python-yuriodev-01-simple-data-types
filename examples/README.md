@@ -2,6 +2,9 @@
 
 Here are some examples to get you started.
 
+**Covered topics:** 
+- **Numbers** (Integers, Floating-Point Numbers, Type Conversion, Mathematical Functions, Operator Precedence)
+
 ## Example 1
 **Problem:** A natural number is given. Find the digit that stands in the tens place in the decimal notation of the number (the second digit, counting from the end of the record).
  
@@ -101,3 +104,5 @@ Here are some examples to get you started.
 | 1   | 184 | 481 |
 | 2   | 123 | 321 |
 | 3   | 567 | 765 |
+
+**Notes:** All the examples above are solved using Python. You can find the solutions in the [examples](./examples) folder. Covered with explanations and comments, these examples will help you understand the practical implementation of the concepts covered in this module. Python tests are also included to verify the correctness of the solutions.
