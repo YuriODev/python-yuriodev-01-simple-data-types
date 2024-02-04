@@ -97,12 +97,6 @@ Before f-strings and the `format()` method, Python used the percent (`%`) operat
 
 Each section is accompanied by practical exercises and examples, enabling you to apply the concepts you've learned. Remember, practice is key to mastering programming!
 
-
-
-
-### Data Input from the Keyboard ⌨️
-Learn to capture user input directly from the keyboard, allowing for interactive Python scripts and applications.
-
 ## 🙋‍♂️ Asking for Help
 
 Encountering difficulties is a natural part of the learning journey. Our team encourages all students to ask questions, seek help, and engage deeply with the course material. We're here to support you every step of the way.
