@@ -1,5 +1,3 @@
-# test_example_5.py
-
 import unittest
 import subprocess
 
