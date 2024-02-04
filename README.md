@@ -2,7 +2,7 @@
 
 Welcome to the first module of our Python course at St. Ignatius College, focusing on Simple Data Types. This module is designed to lay a solid foundation for understanding how Python stores, manipulates, and utilizes data.
 
-## Repository Structure 📂
+## 📂 Repository Structure
 
 - [Theory](./theory): This folder contains all the theoretical materials related to simple data types in Python.
 - [Exercises](./exercises): Here you can find exercises to practice your understanding of the topics covered.
