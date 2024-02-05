@@ -10,7 +10,7 @@ Here are the exercises for the Python Basics module. These exercises are designe
 - User Input
 - Conditional Statements
 
-## Exercise 1: Sum of Digits - Medium 🔥
+## Exercise 1: Sum of Digits - Medium 🔥 (Est. Time: 10-15 mins | Points: 10)
 
 **Problem:** Given a five-digit decimal number, construct a new number according to specific rules: calculate the sum of the first, third, and fifth digits to form the first part of the new number, and the sum of the second and fourth digits for the second part. Output these two parts concatenated as a single number.
 
@@ -32,7 +32,7 @@ Here are the exercises for the Python Basics module. These exercises are designe
 The problem tests the ability to manipulate and process individual digits of a number.
 
 
-## Exercise 2: Next Even Number - Easy 😊
+## Exercise 2: Next Even Number - Easy 😊 (Est. Time: 5-10 mins | Points: 5)
 
 **Problem:** Given an integer `n`, output the next even number that follows it.
 
@@ -54,7 +54,7 @@ The problem tests the ability to manipulate and process individual digits of a n
 This exercise practices basic arithmetic operations and understanding of even numbers.
 
 
-## Exercise 3: Electronic Clock - Medium 🔥
+## Exercise 3: Electronic Clock - Medium 🔥 (Est. Time: 15-20 mins | Points: 10)
 
 **Problem:** Given the number of seconds `n` that have passed since the beginning of the day, calculate what time the electronic clock will show in `h:mm:ss` format.
 
@@ -75,7 +75,7 @@ This exercise practices basic arithmetic operations and understanding of even nu
 ### Note:
 Assumes a 24-hour clock format and tests understanding of time conversion.
 
-## Exercise 4: Symmetric Number - Medium 🔥
+## Exercise 4: Symmetric Number - Medium 🔥 (Est. Time: 10-15 mins | Points: 10)
 
 **Problem:** Determine if a given four-digit number is symmetric. If it is, print 1; otherwise, print any other integer. Assume the number is left-padded with zeros if it has less than four digits.
 
@@ -96,7 +96,7 @@ Assumes a 24-hour clock format and tests understanding of time conversion.
 ### Note:
 This problem tests the ability to analyze and compare digits within a number.
 
-## Exercise 5: Maximum of Two - Easy 😊
+## Exercise 5: Maximum of Two - Easy 😊 (Est. Time: 5-10 mins | Points: 5)
 
 **Problem:** Read two integers `a` and `b`, and print the maximum value between them. Use only integer arithmetic operations; branching, loops, or functions cannot be used.
 
@@ -117,7 +117,7 @@ This problem tests the ability to analyze and compare digits within a number.
 ### Note:
 Focuses on understanding and applying basic arithmetic operations to find the maximum of two numbers.
 
-## Exercise 6: Divisibility Check - Easy 😊
+## Exercise 6: Divisibility Check - Easy 😊 (Est. Time: 5-10 mins | Points: 5)
 
 **Problem:** Determine if the number `a` is divisible by `b` without a remainder using only arithmetic operations. Branching, loops, and functions are prohibited. Output "YES" if divisible, otherwise "NO".
 
@@ -139,7 +139,7 @@ Focuses on understanding and applying basic arithmetic operations to find the ma
 Tests the application of arithmetic and boolean algeebra operations to solve divisibility.
 
 
-## Exercise 7: Sum of Digits - Easy 😊
+## Exercise 7: Sum of Digits (Easy) - Easy 😊 (Est. Time: 5-10 mins | Points: 5)
 
 **Problem:** Write a program to calculate the sum of digits in a 4-digit integer entered by the user.
 
@@ -161,7 +161,7 @@ Tests the application of arithmetic and boolean algeebra operations to solve div
 This exercise enhances the understanding of digit manipulation and summation.
 
 
-## Exercise 8: Integer Sorting - Easy 😊
+## Exercise 8: Integer Sorting - Easy 😊 (Est. Time: 10-15 mins | Points: 10)
 
 
 **Problem:** Write a program to sort three integers without using conditional expressions or loops.
@@ -177,7 +177,7 @@ This exercise enhances the understanding of digit manipulation and summation.
 ### Note:
 The task focuses on using mathematical operations or built-in functions that do not involve explicit condition checking or iteration to sort the numbers.
 
-## Exercise 9: Hour Hand Angle - Medium 🔥
+## Exercise 9: Hour Hand Angle - Medium 🔥 (Est. Time: 15-20 mins | Points: 10)
 
 **Problem:** Given `h` hours, `m` minutes, and `s` seconds have passed since the beginning of the day (with 0 < `h` < 12, 0 ≤ `m` < 60, and 0 ≤ `s` < 60), calculate and output the angle (in degrees) by which the hour hand has turned from the start of the day. Conditional constructions and cycles are not allowed for solving this problem.
 
@@ -201,7 +201,7 @@ The task focuses on using mathematical operations or built-in functions that do 
 This exercise requires applying the knowledge of clock mechanics and mathematical relationships between time and angles without the use of conditionals or looping constructs.
 
 
-## Exercise 10: Minute Hand Angle - Medium 🔥
+## Exercise 10: Minute Hand Angle - Medium 🔥 (Est. Time: 15-20 mins | Points: 10)
 
 **Problem:** Given the angle `a` by which the hour hand has turned since the beginning of the day, determine the angle by which the minute hand has turned since the beginning of the last hour. The input and output data are real numbers. Note that conditional constructions and cycles cannot be used in solving this problem.
 
@@ -229,7 +229,7 @@ Given `a`, the task is to calculate the minute hand's angle since the beginning 
 - It's essential to translate the hour hand's angle into the corresponding minute position within an hour and then calculate the minute hand's angle based on this position.
 
 
-## Exercise 11: Bill Denominations - Medium 🔥
+## Exercise 11: Bill Denominations - Medium 🔥 (Est. Time: 10-15 mins | Points: 10)
 
 
 **Problem:** After purchasing goods for a total of `s` dollars, determine the number of bills of different denominations that should be given to the seller, starting with the largest denomination. Available denominations are 1, 2, 5, 10, 100, and 500 dollars.
@@ -247,7 +247,7 @@ The number of bills for each denomination to be given, starting from the largest
 | 1   | 534    | 1 (500), 0 (100), 3 (10), 0 (5), 4 (1)    |
 | 2   | 1245   | 2 (500), 2 (100), 4 (10), 1 (5), 0 (1)    |
 | 3   | 12     | 0 (500), 0 (100), 1 (10), 0 (5), 2 (1)    |
-| 4   | 786    | 1 (500), 2 (100), 3 (10), 1 (5), 1 (1)    |
+| 4   | 786    | 1 (500), 2 (100), 8 (10), 1 (5), 1 (1)    |
 | 5   | 377    | 0 (500), 3 (100), 7 (10), 1 (5), 2 (1)    |
 
 ### Note:
@@ -275,3 +275,17 @@ The exercises provided range from basic arithmetic operations and logical reason
 6. **Exercise 11: Bill Denominations** - Focuses on minimizing the number of bills returned for a given amount using specific denominations.
 
 Each exercise is designed to test different aspects of problem-solving, from simple arithmetic to more complex calculations and logical reasoning. While none of the problems are classified as Hard, they collectively offer a comprehensive review of essential programming and mathematical concepts.
+
+Overall, the estimated completion time for the exercises ranges from 5 minutes for the simplest tasks to 20 minutes for the more complex ones. This gives an average expected time of approximately 10-15 minutes per exercise, depending on the student's prior knowledge and experience.
+
+# Checking Your Score with Autograder 📝
+
+GitHub Classroom's autograder provides immediate feedback on your exercises. Each exercise is worth points based on its complexity, with a total of `90` points available across all exercises. 
+
+When you commit and push your solution, GitHub Actions will run tests on your code. If all tests for an exercise pass, you will be awarded the full points for that exercise. If some tests fail, partial points may be awarded. 
+
+The workflow will run all tests, even if some fail. The total score will be shown in the workflow output as `points scored/total points available`. For example, if you see `10/90`, it means you've successfully completed the first problem worth `10` points.
+
+Please note that the workflow will show as failed if any test fails, even if you've successfully solved some problems. Look for the points tally in the output to see your score.
+
+Remember, practice makes perfect! If you don't pass all tests the first time, review your code, make improvements, and try again. You can push new changes as many times as you need.
