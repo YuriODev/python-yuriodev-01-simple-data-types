@@ -1,4 +1,4 @@
-# Simple Data Types in Python 📘
+# 📘 Simple Data Types in Python 📘
 
 Welcome to the first module of our Python course at St. Ignatius College, focusing on Simple Data Types. This module is designed to lay a solid foundation for understanding how Python stores, manipulates, and utilizes data.
 
