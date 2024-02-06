@@ -289,3 +289,29 @@ The workflow will run all tests, even if some fail. The total score will be show
 Please note that the workflow will show as failed if any test fails, even if you've successfully solved some problems. Look for the points tally in the output to see your score.
 
 Remember, practice makes perfect! If you don't pass all tests the first time, review your code, make improvements, and try again. You can push new changes as many times as you need.
+
+# Running Your Code and Tests Locally 🖥️
+
+To run your code and tests locally, you can use the following commands:
+
+1. Run the code:
+```bash
+python exercises/exercise_1.py
+```
+
+2. Run the tests:
+
+To run the tests for an exercise, you'll use the pytest framework. First, make sure you have pytest installed: 
+
+```bash
+pip install pytest
+```
+
+Then, you can run the tests for a specific exercise using the following command:
+
+```bash
+python -m unittest exercises/test_exercise_1.py
+```
+
+Replace `exercise_1` with the exercise you're working on (e.g., `exercise_2`, `exercise_3`, etc.) and `test_exercise_1` with the corresponding test file.
+
