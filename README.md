@@ -100,7 +100,7 @@ This module is part of the larger Python programming course offered by St. Ignat
 
 **[Course Repository: Comprehensive Python Course](https://github.com/YuriODev/St-Ignatius-Python-Course)**
 
-**[➡️ Next Topic: Conditional Statements][(link-to-next-topic-repo)](https://github.com/YuriODev/python-st-ignatius-02-simple-conditional-statements/blob/main/README.md)**
+**[➡️ Next Topic: Conditional Statements](https://github.com/YuriODev/python-st-ignatius-02-simple-conditional-statements/blob/main/README.md)**
 
 # Course Overview 🎓
 
