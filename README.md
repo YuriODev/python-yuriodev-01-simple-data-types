@@ -98,7 +98,7 @@ Each section is accompanied by practical exercises and examples, enabling you to
 
 This module is part of the larger Python programming course offered by St. Ignatius College, designed to take you from basic to advanced programming concepts in a step-by-step manner. 
 
-**[Course Repository: Comprehensive Python Course](https://github.com/YuriODev/St-Ignatius-Python-Course))**
+**[Course Repository: Comprehensive Python Course](https://github.com/YuriODev/St-Ignatius-Python-Course)**
 
 **[➡️ Next Topic: Conditional Statements][(link-to-next-topic-repo)](https://github.com/YuriODev/python-st-ignatius-02-simple-conditional-statements/blob/main/README.md)**
 
