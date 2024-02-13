@@ -6,9 +6,9 @@ Welcome to the first module of our Python course at St. Ignatius College, focusi
 
 This module is part of the larger Python programming course offered by St. Ignatius College, designed to take you from basic to advanced programming concepts in a step-by-step manner. 
 
-**[Course Repository: Comprehensive Python Course](https://github.com/YuriODev/St-Ignatius-Python-Course)
+[Course Repository: Comprehensive Python Course](https://github.com/YuriODev/St-Ignatius-Python-Course)
 
-➡️ **[Next Topic: Conditional Statements](https://github.com/YuriODev/python-st-ignatius-02-simple-conditional-statements/blob/main/README.md)
+➡️ [Next Topic: Conditional Statements](https://github.com/YuriODev/python-st-ignatius-02-simple-conditional-statements/blob/main/README.md)
 
 # Course Overview 🎓
 
