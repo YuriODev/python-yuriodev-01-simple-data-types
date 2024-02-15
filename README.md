@@ -24,8 +24,8 @@ This Python course covers a wide range of topics, designed to provide you with a
 - [Functions 🛠](https://github.com/YuriODev/python-st-ignatius-07-functions-in-python/blob/main/README.md)
 - [Files 🗄](https://github.com/YuriODev/python-st-ignatius-08-files-in-python/blob/main/README.md)
 - [Object-Oriented Programming (OOP) 🤖](https://github.com/YuriODev/python-st-ignatius-09-oop/blob/main/README.md)
-- [Modules and Packages 📦](https://github.com/YuriODev/python-st-ignatius-10-modules-and-packages/blob/main/README.md)
-- [Unit Testing ✅](https://github.com/YuriODev/python-st-ignatius-11-unit-testing/blob/main/README.md)
+- [Modules and Packages 📦](https://github.com/YuriODev/python-st-ignatius-11-modules-and-packages/blob/main/README.md)
+- [Unit Testing ✅](https://github.com/YuriODev/python-st-ignatius-12-unit-testing/blob/main/README.md)
 
 ## 📂 Repository Structure
 
