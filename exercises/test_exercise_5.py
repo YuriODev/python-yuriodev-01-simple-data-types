@@ -1,6 +1,7 @@
 import unittest
 import subprocess
 import os
+import ast
 
 # Define the full path to the exercise script
 exercise_file_path = os.path.join(os.path.dirname(__file__), "exercise_5.py")
@@ -25,6 +26,15 @@ class TestExample1(unittest.TestCase):
         """Test the provided example 3."""
         output = self.run_exercise("7\n9\n")
         self.assertEqual(output, "9\n")
+
+    def test_if_max_function_was_used(self):
+        exercise_file_path = os.path.join(os.path.dirname(__file__),
+                                          "exercise_5.py")
+        with open(exercise_file_path, 'r') as file:
+            file_content = file.read()
+            self.assertNotIn(
+                "max(", file_content,
+                "You should not use the max function in your solution")
 
 
 if __name__ == '__main__':
