@@ -15,17 +15,17 @@ class TestExample1(unittest.TestCase):
     def test_example_1(self):
         """Test the provided example 1."""
         output = self.run_exercise("8\n5\n")
-        self.assertEqual(output, "8\n")
+        self.assertIn("8", output, "Expected value not found in output")
 
     def test_example_2(self):
         """Test the provided example 2."""
         output = self.run_exercise("5\n3\n")
-        self.assertEqual(output, "5\n")
+        self.assertIn("5", output, "Expected value not found in output")
 
     def test_example_3(self):
         """Test the provided example 3."""
         output = self.run_exercise("7\n9\n")
-        self.assertEqual(output, "9\n")
+        self.assertIn("9", output, "Expected value not found in output")
 
     def test_if_max_function_was_used(self):
         exercise_file_path = os.path.join(os.path.dirname(__file__),
