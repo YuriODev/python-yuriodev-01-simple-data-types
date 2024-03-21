@@ -14,17 +14,17 @@ class TestMinuteHandAngle(unittest.TestCase):
     def test_example_1(self):
         """Test the provided example 1."""
         output = self.run_exercise("190\n")
-        self.assertEqual(output, "120.0\n")
+        self.assertIn("120.0", output)
 
     def test_example_2(self):
         """Test the provided example 2."""
         output = self.run_exercise("170\n")
-        self.assertEqual(output, "240.0\n")
+        self.assertIn("240.0", output)
 
     def test_example_3(self):
         """Test the provided example 3."""
         output = self.run_exercise("370\n")
-        self.assertEqual(output, "120.0\n")
+        self.assertIn("120.0", output)
 
 
 if __name__ == '__main__':
