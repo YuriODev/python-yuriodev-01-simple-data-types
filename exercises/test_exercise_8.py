@@ -14,17 +14,17 @@ class TestIntegerSorting(unittest.TestCase):
     def test_example_1(self):
         """Test the provided example 1."""
         output = self.run_exercise("8\n1\n5\n")
-        self.assertEqual(output, "1\n5\n8\n")
+        self.assertEqual("1\n5\n8\n", output)
 
     def test_example_2(self):
         """Test the provided example 2."""
         output = self.run_exercise("3\n2\n9\n")
-        self.assertEqual(output, "2\n3\n9\n")
+        self.assertEqual("2\n3\n9\n", output)
 
     def test_example_3(self):
         """Test the provided example 3."""
         output = self.run_exercise("7\n4\n6\n")
-        self.assertEqual(output, "4\n6\n7\n")
+        self.assertEqual("4\n6\n7\n", output)
 
 
 if __name__ == '__main__':
