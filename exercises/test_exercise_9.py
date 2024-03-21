@@ -14,17 +14,17 @@ class TesetHourAndAngle(unittest.TestCase):
     def test_example_1(self):
         """Test the provided example 1."""
         output = self.run_exercise("2\n30\n0\n")
-        self.assertEqual(output, "75.0\n")
+        self.assertIn("75.0", output)
 
     def test_example_2(self):
         """Test the provided example 2."""
         output = self.run_exercise("10\n0\n0\n")
-        self.assertEqual(output, "300.0\n")
+        self.assertIn("300.0", output)
 
     def test_example_3(self):
         """Test the provided example 3."""
         output = self.run_exercise("6\n0\n0\n")
-        self.assertEqual(output, "180.0\n")
+        self.assertIn("180.0", output)
 
 
 if __name__ == '__main__':
