@@ -15,7 +15,7 @@ Here are some examples to get you started.
 | 2   | 158    | 5       |
 | 3   | 5      | 0       |
 
-<details open>
+<details close>
 <summary><b>Python Solution</b></summary>
 
 ```python
@@ -43,7 +43,7 @@ print(f"The hundreds place digit of {number} is {hundreds_place}")
 | 2   | 123    | 6       |
 | 3   | 565    | 16      |
 
-<details open>
+<details close>
 <summary><b>Python Solution</b></summary>
 
 ```python
@@ -80,7 +80,7 @@ print(f"The sum of the digits of {number} is {sum_of_digits}")
 | 2   | 1240   | 20<br>40  |
 | 3   | 150    | 2<br>30   |
 
-<details open>
+<details close>
 <summary><b>Python Solution</b></summary>
 
 ```python
@@ -108,7 +108,7 @@ print(f"{hours}\n{minutes}")
 | 2   | 300<br>23<br>0 | 5<br>0    |
 | 3   | 1440<br>0<br>0 | 0<br>0    |
 
-<details open>
+<details close>
 <summary><b>Python Solution</b></summary>
 
 ```python
@@ -142,7 +142,7 @@ print(wake_up_minute)
 | 2   | 456789 | 5 day(s), 6 hour(s), 53 minute(s), 9 second(s) |
 | 3   | 86401  | 1 day(s), 0 hour(s), 0 minute(s), 1 second(s)  |
 
-<details open>
+<details close>
 <summary><b>Python Solution</b></summary>
 
 ```python
@@ -186,7 +186,7 @@ print(f"{days} day(s), {hours} hour(s), {minutes} minute(s), {seconds} second(s)
 | 2   | 25     | 0, 25   |
 | 3   | 440    | 7, 20   |
 
-<details open>
+<details close>
 <summary><b>Python Solution</b></summary>
 
 ```python
@@ -220,7 +220,7 @@ print(f"{hours}, {minutes}")
 | 2   | 123456<br>3 | 123  |
 | 3   | 123456<br>6 | 0    |
 
-<details open>
+<details close>
 <summary><b>Python Solution</b></summary>
 
 ```python
@@ -251,7 +251,7 @@ print(result)
 | 2   | 5<br>50<br>4  | 22<br>0  |
 | 3   | 1<br>99<br>1  | 1<br>99  |
 
-<details open>
+<details close>
 <summary><b>Python Solution</b></summary>
 
 ```python
@@ -287,7 +287,7 @@ print(pennies)
 | 2   | 15  | 120  |
 | 3   | 99  | 4950 |
 
-<details open>
+<details close>
 <summary><b>Python Solution</b></summary>
 
 ```python
@@ -314,7 +314,7 @@ print(sum_of_numbers)
 | 2   | 123 | 321 |
 | 3   | 567 | 765 |
 
-<details open>
+<details close>
 <summary><b>Python Solution</b></summary>
 
 ```python
