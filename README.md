@@ -8,7 +8,7 @@ This module is part of the larger Python programming course offered by St. Ignat
 
 [Course Repository: Comprehensive Python Course](https://github.com/YuriODev/St-Ignatius-Python-Course)
 
-➡️ [Next Topic: Conditional Statements](https://github.com/YuriODev/python-st-ignatius-02-simple-conditional-statements/blob/main/README.md)
+➡️ [Next Topic: Conditional Statements](https://github.com/YuriODev/python-yuriodev-02-simple-conditional-statements/blob/main/README.md)
 
 # Course Overview 🎓
 
@@ -16,16 +16,16 @@ This Python course covers a wide range of topics, designed to provide you with a
 
 ## Modules Covered:
 - **Simple Data Types in Python (Current Module)**
-- [Conditional Statements 🔀](https://github.com/YuriODev/python-st-ignatius-02-simple-conditional-statements/blob/main/README.md)
-- [Iterations and Loops ➿](https://github.com/YuriODev/python-st-ignatius-03-iterations-and-loops/blob/main/README.md)
-- [String Manipulation 🧵](https://github.com/YuriODev/python-st-ignatius-04-string-manipulation/blob/main/README.md)
-- [Lists and Tuples 📝](https://github.com/YuriODev/python-st-ignatius-05-lists-in-python/blob/main/README.md)
-- [Dictionaries 🗂](https://github.com/YuriODev/python-st-ignatius-06-mastering-dictionaries/blob/main/README.md)
-- [Functions 🛠](https://github.com/YuriODev/python-st-ignatius-07-functions-in-python/blob/main/README.md)
-- [Files 🗄](https://github.com/YuriODev/python-st-ignatius-08-files-in-python/blob/main/README.md)
-- [Object-Oriented Programming (OOP) 🤖](https://github.com/YuriODev/python-st-ignatius-09-oop/blob/main/README.md)
-- [Modules and Packages 📦](https://github.com/YuriODev/python-st-ignatius-10-modules-and-packages/blob/main/README.md)
-- [Unit Testing ✅](https://github.com/YuriODev/python-st-ignatius-11-unit-testing/blob/main/README.md)
+- [Conditional Statements 🔀](https://github.com/YuriODev/python-yuriodev-02-simple-conditional-statements/blob/main/README.md)
+- [Iterations and Loops ➿](https://github.com/YuriODev/python-yuriodev-03-iterations-and-loops/blob/main/README.md)
+- [String Manipulation 🧵](https://github.com/YuriODev/python-yuriodev-04-string-manipulation/blob/main/README.md)
+- [Lists and Tuples 📝](https://github.com/YuriODev/python-yuriodev-05-lists-in-python/blob/main/README.md)
+- [Dictionaries 🗂](https://github.com/YuriODev/python-yuriodev-06-mastering-dictionaries/blob/main/README.md)
+- [Functions 🛠](https://github.com/YuriODev/python-yuriodev-07-functions-in-python/blob/main/README.md)
+- [Files 🗄](https://github.com/YuriODev/python-yuriodev-08-files-in-python/blob/main/README.md)
+- [Object-Oriented Programming (OOP) 🤖](https://github.com/YuriODev/python-yuriodev-09-oop/blob/main/README.md)
+- [Modules and Packages 📦](https://github.com/YuriODev/python-yuriodev-10-modules-and-packages/blob/main/README.md)
+- [Unit Testing ✅](https://github.com/YuriODev/python-yuriodev-11-unit-testing/blob/main/README.md)
 
 ## 📂 Repository Structure
 
