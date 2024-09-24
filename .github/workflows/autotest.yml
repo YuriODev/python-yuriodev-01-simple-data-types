@@ -75,7 +75,7 @@ jobs:
           if [ ${#unique_exercises[@]} -eq 0 ]; then
             json_matrix='[]'
           else
-            json_matrix=$(printf '["%s"]' "$(IFS=\",\"; echo "${unique_exercises[*]}")")
+            json_matrix=$(printf '["%s"]' "$(IFS=','; echo "${unique_exercises[*]}" | sed 's/ /\",\"/g')")
           fi
           echo "matrix=$json_matrix" >> $GITHUB_OUTPUT
 
@@ -111,4 +111,4 @@ jobs:
 
       - name: Run Test for Exercise ${{ matrix.exercise }}
         run: |
-          pytest exercises/test_exercise_${{ matrix.exercise }}.py
+          pytest --color=yes --failed-first -x exercises/test_exercise_${{ matrix.exercise }}.py
