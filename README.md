@@ -8,6 +8,8 @@
 
 Welcome to the **YuriODev Comprehensive Python Course**, where we'll cover fundamental programming concepts. This module focuses on **Simple Data Types** in Python, laying the foundation for understanding how Python stores, manipulates, and utilizes data.
 
+## 🌟 Course Navigation 🧭
+
 This module is part of the larger **YuriODev Python Comprehensive Course** designed to take you from basic programming concepts to advanced topics in Python.
 
 [Course Repository: YuriODev Comprehensive Python Course](https://github.com/YurioDev/Python-Course)
