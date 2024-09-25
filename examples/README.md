@@ -350,4 +350,4 @@ print(reversed_n)
 </details>
 
 
-**Notes:** All the examples above are solved using Python. You can find the solutions in the [examples](./examples) folder. Covered with explanations and comments, these examples will help you understand the practical implementation of the concepts covered in this module. Python tests are also included to verify the correctness of the solutions.
+**Notes:** All the examples above are solved using Python. You can find the solutions in the [examples](../examples) folder. Covered with explanations and comments, these examples will help you understand the practical implementation of the concepts covered in this module. Python tests are also included to verify the correctness of the solutions.
