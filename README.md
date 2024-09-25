@@ -1,8 +1,12 @@
 # 📘 Simple Data Types in Python
 
-Welcome to the **YuriODev Comprehensive Python Course**, where we'll cover fundamental programming concepts. This module focuses on **Simple Data Types** in Python, laying the foundation for understanding how Python stores, manipulates, and utilizes data.
+![GitHub contributors](https://img.shields.io/github/contributors/YurioDev/python-yuriodev-01-simple-data-types?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/YurioDev/python-yuriodev-01-simple-data-types?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/YurioDev/python-yuriodev-01-simple-data-types?style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/YurioDev/python-yuriodev-01-simple-data-types?style=for-the-badge)
+![License](https://img.shields.io/github/license/YurioDev/python-yuriodev-01-simple-data-types?style=for-the-badge)
 
-## 🌟 Course Navigation 🧭
+Welcome to the **YuriODev Comprehensive Python Course**, where we'll cover fundamental programming concepts. This module focuses on **Simple Data Types** in Python, laying the foundation for understanding how Python stores, manipulates, and utilizes data.
 
 This module is part of the larger **YuriODev Python Comprehensive Course** designed to take you from basic programming concepts to advanced topics in Python.
 
@@ -34,7 +38,6 @@ This Python course is designed to provide a comprehensive foundation in Python p
 - **[Exercises](./exercises)**: Practice problems to reinforce your understanding.
 - **[Solutions](./solutions)**: Recommended to check after attempting exercises independently.
 
----
 
 ## 📝 Module Overview
 
@@ -80,13 +83,10 @@ Learn how to capture **keyboard input** using Python's `input()` function.
 
 Best practices for writing clean and efficient Python code, including **comments**, **indentation**, and **compound operators**.
 
----
 
 ## 🏋️‍♂️ Exercises and Examples
 
 Each topic is accompanied by practical exercises and examples to ensure that you master the material. Remember, the key to success in programming is **consistent practice**!
-
----
 
 ## 🛠 Additional Resources
 
@@ -98,8 +98,6 @@ To further enhance your understanding, explore the following resources:
 - [W3Schools Python Tutorial](https://www.w3schools.com/python/)
 - [Programiz Python Programming](https://www.programiz.com/python-programming)
 
----
-
 ## 📢 License
 
 This project is licensed under a custom license:
@@ -109,3 +107,24 @@ This project is licensed under a custom license:
 - **Forks and Derivatives**: Permitted for personal and non-commercial purposes, provided this license is included in any derived works.
 
 For more details, refer to the [LICENSE](./LICENSE) file.
+
+---
+
+## 📢 Providing Feedback
+
+### 📞 Contact Me
+
+[![Contact Me](https://img.shields.io/badge/Contact-Me-blue?style=for-the-badge)](mailto:contact@yuriodev.co.uk)
+
+Your feedback helps us improve. If you have suggestions or comments, please raise an issue in this repository.
+
+
+## 💖 Support the Developer
+
+If you find this project helpful and would like to support its development, consider contributing through one of the following options:
+
+[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-orange?style=for-the-badge&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/yuriodev)
+[![PayPal](https://img.shields.io/badge/Donate-PayPal-blue?style=for-the-badge&logo=paypal)](https://paypal.me/yuriodev)
+[![Patreon](https://img.shields.io/badge/Support-Patreon-red?style=for-the-badge&logo=patreon)](https://www.patreon.com/YuriODev)
+
+Every contribution, no matter how small, helps and is greatly appreciated! 🙏
